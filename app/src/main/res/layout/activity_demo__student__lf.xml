@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Demo_Student_LF"
+    android:orientation="vertical"
+    android:weightSum="10">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="30dp">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="January 31, 2019"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="The Registrar"
+            android:layout_marginTop="30dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="Leading University, Sylhet"
+            android:layout_marginTop="60dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="Subject: Application for Partial Payment"
+            android:layout_marginTop="90dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="Sir,"
+            android:layout_marginTop="120dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="With due respect, I would like to state that, I am a student of CSE dept. of your university. Recently my family is going through some financial trouble. That is why I am unable to pay my semester fee fully at this time. But I am ready to pay 6,000/= out of 12,550/= and I will pay the remaining 6,550/= before final-term."
+            android:layout_marginTop="150dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="May I therefore pray and hope that you would be kind enough to consider my problem and allow me to pay the fee in two installments."
+            android:layout_marginTop="260dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="Yours Faithfully"
+            android:layout_marginTop="330dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="Name: S. M. Ahsan Uddin"
+            android:layout_marginTop="360dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="Dept. of CSE"
+            android:layout_marginTop="390dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="ID: 1612020194"
+            android:layout_marginTop="420dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="Batch: 41"
+            android:layout_marginTop="450dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#acacac"
+            android:textColor="#000"
+            android:text="Section: E"
+            android:layout_marginTop="480dp"
+            android:padding="14dp"
+            android:textSize="12dp">
+
+        </TextView>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

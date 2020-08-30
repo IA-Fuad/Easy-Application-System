@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.NavigationView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:openDrawer="start"
+    android:id="@+id/drawerId">
+
+    <android.support.design.widget.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/navigationId"
+        android:background="#fff"
+        app:menu="@menu/nav_menu"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/nav_header_student__home__page"
+        >
+
+
+    </android.support.design.widget.NavigationView>
+
+</android.support.design.widget.NavigationView>

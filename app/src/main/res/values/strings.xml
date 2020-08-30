@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Easy Application System</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string-array name="user_names">
+        <item>Student</item>
+        <item>Faculty</item>
+    </string-array>
+
+
+    <string-array name="departments">
+        <item>CSE</item>
+        <item>BBA</item>
+        <item>EEE</item>
+        <item>Civil</item>
+        <item>Architecture</item>
+        <item>English</item>
+        <item>LLB</item>
+    </string-array>
+
+
+    <string-array name="batches">
+        <item>41 </item>
+        <!--<item>41 </item>
+        <item>41 </item>
+        <item>41 </item>
+        <item>41(E)</item>-->
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <!--<item>44(B)</item>
+        <item>44(C)</item>
+        <item>44(D)</item>
+        <item>44(E)</item>-->
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <!--<item>47(B)</item>
+        <item>47(C)</item>
+        <item>47(D)</item>
+        <item>47(E)</item>-->
+        <item>48</item>
+        <item>49</item>
+    </string-array>
+
+    <string-array name="section">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+    </string-array>
+
+    <string-array name="positions">
+        <item>Lecturer</item>
+        <item>Senior Lecturer</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+    </string-array>
+    <string name="title_activity_student__home__page">Student_Home_Page</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
